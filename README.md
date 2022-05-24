@@ -16,11 +16,7 @@ M = E − N + 2P => 38 - 32 + 2 => **8**
 
 ### Тест случаи според критериумот  Every statement 
 
-....
-
-### Тест случаи според критериумот Every path
-
-.... 
+![image](https://user-images.githubusercontent.com/25356500/169974868-0102c09d-636e-498e-8ec8-23db1f7e3618.png)
 
 ### Објаснување на напишаните unit tests
 
