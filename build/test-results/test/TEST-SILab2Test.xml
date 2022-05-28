@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-28T12:16:41" hostname="DESKTOP-1QNF2LG" time="0.041">
+  <properties/>
+  <testcase name="When_Passing_List_That_Is_Not_Perfect_Square_Lenght_Exception_Is_Thrown()" classname="SILab2Test" time="0.032"/>
+  <testcase name="When_Passing_Empty_List_Exception_Is_Thrown()" classname="SILab2Test" time="0.001"/>
+  <testcase name="When_Passing_Correct_List_Result_Is_List_With_Bomb_Count()" classname="SILab2Test" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
